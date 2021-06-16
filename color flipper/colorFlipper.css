@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+}
+.container {
+  position: absolute;
+  top: 200px;
+  left: 5%;
+}
+.btn {
+  border: 1px solid black;
+  margin-top: 20px;
+}
+.h2 {
+  background-color: rgb(28, 28, 28);
+}
