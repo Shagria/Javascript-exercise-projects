@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+}
+.container {
+  position: relative;
+  top: 250px;
+}
+span {
+  font-size: 3em;
+}
+.btn {
+  border: 1px solid black;
+}
