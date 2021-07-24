@@ -1,0 +1,19 @@
+.container{
+    margin: 100px 100px;
+}
+.surprise{
+    margin-top:10px;
+}
+.post-btn, .prev-btn{
+    border: none;
+    color:rgb(60, 117, 170);
+}
+.surprise > button{
+    border-radius: 5%;
+    border-color:rgb(60, 117, 170) ;
+    color: rgb(60, 117, 170);
+    text-transform: capitalize;
+}
+article{
+    box-shadow: dimgray ;
+}
